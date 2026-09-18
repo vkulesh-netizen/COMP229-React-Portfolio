@@ -17,10 +17,13 @@ function Home() {
           <p className="eyebrow">Welcome to my portfolio</p>
           <h1>Hi, I’m Vitaliy Kulesh.</h1>
           <p className="hero-copy">
-            I am building practical skills in software engineering, web development,
-            programming and artificial intelligence. I enjoy turning ideas into clear,
-            useful and reliable applications.
-          </p>
+<p>
+  I am a Software Engineering Technology – Artificial Intelligence student
+  with a strong background in engineering and automation. I am developing
+  practical skills in software engineering, web development, programming,
+  and artificial intelligence, with a focus on building reliable solutions
+  to real-world problems.
+</p>
 
           <div className="button-row">
             <Link className="btn btn-primary" to="/about">
